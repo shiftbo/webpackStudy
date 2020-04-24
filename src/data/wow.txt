@@ -1,0 +1,11 @@
+//冲锋宏
+
+#showtooltips 拦截
+/cast [stance:3,nocombat]战斗姿态
+/cast [stance:1,nocombat]冲锋
+/cast [stance:3,combat]拦截
+/cast 断筋
+/startattack
+/dismount
+
+
